@@ -14,6 +14,6 @@ UPMC 2016
 
 Fichier  |
 ------------- | 
-[Présentation](https://github.com/LeroyProjects/Modelisation-optimisation-graphes-et-programmation-lineaire/blob/master/enonce.pdf) |
-[Rapport](https://github.com/LeroyProjects/Modelisation-optimisation-graphes-et-programmation-lineaire/blob/master/Rapport_MOGPL_pdf.pdf) |
+[Présentation](https://github.com/LeroyProjects/Bio_informatique/blob/master/Pr%C3%A9sentation.pdf) |
+[Rapport](https://github.com/LeroyProjects/Bio_informatique/blob/master/Rapport.pdf) |
 
